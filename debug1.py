@@ -9,4 +9,6 @@ data input(message)
 """
 
 message="Input a number"
-data input(message)
+data = input(message)
+
+#done
